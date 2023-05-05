@@ -42,4 +42,4 @@ E por fim a função de impressão é chamada e imprime os pedidos pendentes, um
 
 ## Execução
 
-Para executar o código, basta rodar o arquivo pendentes.js no terminal. O diretório atual deve conter os diretórios Pedidos e Notas, que contém os arquivos de pedidos e notas a serem processados pelo código. O resultado da execução será uma lista de objetos com as informações dos pedidos organizadas, ou uma exceção caso alguma das funções de verificação encontre um problema.
+Para executar o código, basta rodar o arquivo `pendentes.js` no terminal. O diretório atual deve conter os diretórios Pedidos e Notas, que contém os arquivos de pedidos e notas a serem processados pelo código. O resultado da execução será uma lista de objetos com as informações dos pedidos organizadas, ou uma exceção caso alguma das funções de verificação encontre um problema.
